@@ -1,8 +1,8 @@
 Hey! 👋🏽
 I develop... 🔥
-- 🧑🏽‍💻 Websites
-- 🎥 films 
--⏹️  ui/ux layouts.
+* 🧑🏽‍💻 Websites
+* 🎥 films 
+* ⏹️  ui/ux layouts.
 
 Check me out at: [Ronak](https://ronak.ronakexe.repl.co)
 Too lazy?
