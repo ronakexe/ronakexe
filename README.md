@@ -7,7 +7,7 @@ I develop... 🔥
 Check me out at: [Ronak](https://ronak.ronakexe.repl.co)
 Too lazy?
 
-Github: You... you're here
+- Github: You... you're here
 - Email: itstheronak@gmail.com
 - Discord: [ronakexe#3335](https://discord.com/users/773612664252661800)
 - Replit: [ronakexe](https://replit.com/@ronakexe)
